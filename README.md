@@ -53,7 +53,7 @@ def mostcommon(a):
 Ensemble Technique - Boosting
 
 ```
-Models used in Boosting (For Outlier Elimination)
+Models used in Efficient Boosting  (For Outlier Elimination)
 
 1. Inter-quartile Range or Box-Plot Method
 2. Isolation Forest Method
